@@ -1,4 +1,4 @@
-# 🎮 Rental PS Manager (Android Native)
+# 🎮 Rental PS Manager (Mobile Native)
 
 Aplikasi Android Native untuk manajemen operasional Rental PlayStation. Dibangun menggunakan **Kotlin** dan **SQLite**, aplikasi ini mencatat penyewaan, mengotomatisasi perhitungan waktu selesai, menghitung estimasi pendapatan harian, dan terintegrasi langsung dengan WhatsApp pelanggan.
 
